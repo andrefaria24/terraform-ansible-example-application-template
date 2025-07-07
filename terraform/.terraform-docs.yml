@@ -1,0 +1,4 @@
+formatter: markdown
+settings:
+  indent: 3
+  hide-empty: true
